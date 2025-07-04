@@ -1,24 +1,6 @@
 # Hey there! 👋 
 
-## 🚀 Featured Projects
-
-### 🔐 [Passman](https://github.com/mshnjffr/passman)
-> Beautiful password manager with neon TUI built in Go
-- 🎨 Stunning terminal interface with animations
-- 🔒 Cryptographically secure generation
-- 📋 Instant clipboard integration
-- 🍺 Available on Homebrew
-
-### 🛒 [E-Commerce Store](https://github.com/mshnjffr/e_commerce_store)
-> Full-stack e-commerce platform
-- 🎯 TypeScript frontend with modern UI
-- ⚡ Java backend with robust APIs
-- 🔄 Complete shopping cart functionality
-
-### 🐍 [Cody API Basics](https://github.com/mshnjffr/cody_api_basics)
-> Python API fundamentals and examples
-- 📚 Learning resource for API development
-- 🔧 Practical examples and best practices
+[![Passman](https://github-readme-stats.vercel.app/api/pin/?username=mshnjffr&repo=passman&theme=radical)](https://github.com/mshnjffr/passman)
 
 ## 🧰 My Toolbox
 
@@ -38,6 +20,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshnjffr&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mshnjffr&layout=compact&theme=radical)
+
+```markdown
+## 🤝 Let's Connect!
+```
 
 <!--
 **mshnjffr/mshnjffr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
