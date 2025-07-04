@@ -1,4 +1,10 @@
-Nothing here yet...
+# Hey there! 👋 I'm Moshin
+
+### 🛠️ Building secure tools & full-stack solutions
+
+**Currently crafting:** [Passman](https://github.com/mshnjffr/passman) - A beautiful password manager with neon TUI ✨
+
+**Languages I speak:** Go • TypeScript • Java • Python
 
 <!--
 **mshnjffr/mshnjffr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
