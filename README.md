@@ -1,13 +1,24 @@
 # Hey there! 👋 
 
-### 🛠️ Building secure tools & full-stack solutions
+## 🚀 Featured Projects
 
-**Currently crafting:** [Passman](https://github.com/mshnjffr/passman) - A beautiful password manager with neon TUI ✨
+### 🔐 [Passman](https://github.com/mshnjffr/passman)
+> Beautiful password manager with neon TUI built in Go
+- 🎨 Stunning terminal interface with animations
+- 🔒 Cryptographically secure generation
+- 📋 Instant clipboard integration
+- 🍺 Available on Homebrew
 
+### 🛒 [E-Commerce Store](https://github.com/mshnjffr/e_commerce_store)
+> Full-stack e-commerce platform
+- 🎯 TypeScript frontend with modern UI
+- ⚡ Java backend with robust APIs
+- 🔄 Complete shopping cart functionality
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshnjffr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mshnjffr&layout=compact&theme=radical)
-
+### 🐍 [Cody API Basics](https://github.com/mshnjffr/cody_api_basics)
+> Python API fundamentals and examples
+- 📚 Learning resource for API development
+- 🔧 Practical examples and best practices
 
 ## 🧰 My Toolbox
 
@@ -23,6 +34,10 @@
 ### 🛠️ Tools
 ![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshnjffr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mshnjffr&layout=compact&theme=radical)
 
 <!--
 **mshnjffr/mshnjffr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
